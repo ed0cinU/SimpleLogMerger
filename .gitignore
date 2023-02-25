@@ -1,4 +1,5 @@
-.idea/
-out/
+# Project exclude paths
+/out/
+.idea
+*.iml
 META-INF/
-LogMerger.iml

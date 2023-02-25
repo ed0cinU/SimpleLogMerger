@@ -2,6 +2,7 @@
 Merges .log Files in an simple naive way.
 
 ># Attention!
+- It merges all .log Files placed in the run/working directory of it.
 - It doesn't unzip zip compressed Files like log.gz or something.
 - It can set the modification Date of a log File by it's Name (like "2023-01-03-1.log").
 - The current Name modification Date format is 'yyyy-MM-dd-HH' which stands for 'year-month-day-hour'.

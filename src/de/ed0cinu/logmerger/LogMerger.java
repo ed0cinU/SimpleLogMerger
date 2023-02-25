@@ -5,6 +5,10 @@ import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
+/*
+ *   Copyright (c) 2023 ed0cinU
+ */
+
 public final class LogMerger {
 
     private static final List<File> files = new ArrayList<>(), afterOtherFiles = new ArrayList<>();
